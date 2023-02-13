@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20I'm%20Patrick%20Welcome!~!&fontSize=40)
 
-## :heavy_exclamation_mark:Footprints=
+## :heavy_exclamation_mark:Footprints
    :white_flower: 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공<br>
    :smirk_cat: 멋쟁이 사자처럼 동아리 9기 아기사자<br>
    :smirk_cat: 멋쟁이 사자처럼 동아리 10기 운영진<br>
