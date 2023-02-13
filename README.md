@@ -1,12 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20I'm%20Patrick%20Welcome!~!&fontSize=40)
 
-##:heavy_exclamation_mark:Footprints
-   :white_flower: 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공
-   :smirk_cat: 멋쟁이 사자처럼 동아리 9기 아기사자
-   :smirk_cat: 멋쟁이 사자처럼 동아리 10기 운영진
-   :earth_americas: GDSC KNU 2기 활동
-   :rocket: 우아한테크코스 프론트엔드 5기
+## :heavy_exclamation_mark:Footprints=
+   :white_flower: 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공<br>
+   :smirk_cat: 멋쟁이 사자처럼 동아리 9기 아기사자<br>
+   :smirk_cat: 멋쟁이 사자처럼 동아리 10기 운영진<br>
+   :earth_americas: GDSC KNU 2기 활동<br>
+   :rocket: 우아한테크코스 프론트엔드 5기<br>
    
 <!--
 **GC-Park/gc-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
