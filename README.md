@@ -6,7 +6,7 @@
    :smirk_cat: 멋쟁이 사자처럼 동아리 9기 아기사자<br>
    :smirk_cat: 멋쟁이 사자처럼 동아리 10기 운영진<br>
    :earth_americas: GDSC KNU 2기 활동<br>
-   :rocket: 우아한테크코스 프론트엔드 5기<br>
+   :rocket: 우아한테크코스 프론트엔드 5기 진행 중<br>
    
 <!--
 **GC-Park/gc-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
