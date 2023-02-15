@@ -18,7 +18,7 @@
 
 
 ## 🔗 Github stats
-(https://github-readme-stats.vercel.app/api?username=GC-Park&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=GC-Park&show_icons=true&theme=radical
 
 
 <!--
