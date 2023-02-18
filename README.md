@@ -22,7 +22,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={GC-Park})](https://solved.ac/{GC-Park})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={qkrtk9230})](https://solved.ac/{qkrtk9230})
 <!--
 **GC-Park/gc-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
