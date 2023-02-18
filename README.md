@@ -21,6 +21,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GC-Park&show_icons=true&theme=tokyonight)<br><br>
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={GC-Park})](https://solved.ac/{GC-Park})
 <!--
 **GC-Park/gc-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
