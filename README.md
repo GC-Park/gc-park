@@ -23,7 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GC-Park&show_icons=true&theme=tokyonight)<br><br>
 
 ## 🌈 Portfolio
-<a href="https://gc-park.github.io/Portfolio/"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Portfolio&logoColor=white"/></a>
+<a href="https://gc-park.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1DBF73?style=flat-square&logo=Portfolio&logoColor=white"/></a>
 
 <!--
 **GC-Park/gc-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
