@@ -15,8 +15,7 @@
 
 ## 📶  Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GC-Park&layout=compact)](https://github.com/GC-Park/github-readme-stats)<br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrtk9230)](https://solved.ac/qkrtk9230)<br><br>
+<br><br>
 
 
 ## 🔗 Github stats
